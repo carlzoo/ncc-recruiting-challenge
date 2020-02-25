@@ -5,3 +5,5 @@ I took a couple of weeks to complete these challenges. The recruiter told me I p
 In the end, I did not even get a phone interview. 
 
 Hopefully whoever is applying will have better luck than I did. 
+
+Note: These solutions are not perfect but will pass the challenge (unless they change it).
